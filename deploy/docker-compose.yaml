@@ -1,0 +1,7 @@
+---
+version: '2'
+
+services:
+  tor:
+    image: scraper-tor:latest
+    network_mode: host

@@ -1,0 +1,6 @@
+ControlPort 9051
+SocksPort 9050
+PublishServerDescriptor 0
+ORPort auto
+BridgeRelay 1
+Exitpolicy reject *:*
